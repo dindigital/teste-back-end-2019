@@ -29,3 +29,7 @@ echo -e "\033[1;92m Acesso Site: hhttp://localhost\033[m"
 python -m webbrowser "http://localhost" > /dev/null 2>&1
 ```
 
+# SOBRE O JWT
+Versão: 1.0.0-rc.4.1
+Docs: https://jwt-auth.readthedocs.io/en/develop/laravel-installation/
+
