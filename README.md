@@ -41,7 +41,8 @@ python -m webbrowser "http://localhost" > /dev/null 2>&1
 ```
 
 ## Requisitos de desenvolvimento ##
-- [Postman](https://www.getpostman.com/downloads/) - Utilizar esta documentaçao: https://documenter.getpostman.com/view/2284246/S1a8yjgh?version=latest
+- [Postman](https://www.getpostman.com/downloads/) - Utilizar esta documentaçao: 
+https://documenter.getpostman.com/view/2284246/SVmzvcZv?version=latest#intro
 - Utilizar biblioteca: [Laravel Responder](https://github.com/flugger/laravel-responder)
 - Utilizar biblioteca: [JWT 1.0.0-rc.4.1](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/) 
 
